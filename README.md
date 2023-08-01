@@ -4,7 +4,7 @@ Python scripts to parse IOTA contest cabrillo files
 ## iota_references_extractor.py
 Usage: iota_references_extractor.py <references_file> <cabrillo_file> <output_file>
 ```
-iota_references_extractor.py iota_references.txt iota_contest.txt iota_report.txt
+iota_references_extractor.py iota_references.txt iota_contest.cbr iota_report.txt
 ```
 Sample output:
 ```
