@@ -1,4 +1,4 @@
-# IOTA_CONTEST_SCRIPTS
+# IOTA Contest Scripts
 Python scripts to parse IOTA contest cabrillo files 
 
 ## iota_references_extractor.py
