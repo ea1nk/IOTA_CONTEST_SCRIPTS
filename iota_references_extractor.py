@@ -1,3 +1,5 @@
+#IOTA REFERENCES EXTRACTOR
+#2023 - SCQ Devices / EA1NK
 import sys
 
 def load_iota_references(file_path):
